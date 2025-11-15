@@ -20,3 +20,13 @@
 - **Styled Components / TailwindCSS (اختیاری)** - استایل‌دهی کامپوننت‌ها
 - **ESLint & Prettier** - بررسی استاندارد کد و فرمت خودکار
 - **Jest / React Native Testing Library** - تست واحد و کامپوننت‌ها
+
+---
+
+src/
+├─ assets/       # تصاویر، آیکون‌ها و فونت‌ها
+├─ components/   # کامپوننت‌های قابل استفاده مجدد
+├─ screens/      # صفحات اپلیکیشن
+├─ store/        # مدیریت وضعیت
+├─ styles/       # فایل‌های استایل
+└─ utils/        # توابع و ابزارهای کمکی
